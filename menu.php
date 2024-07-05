@@ -1,6 +1,6 @@
 <?php
-    echo "<h1>Main</h1>";
-    echo "<h1>Product</h1>";
-    echo "<h1>Abotme</h1>";;
-    echo "<h1>contract</h1>";;
+    echo "<h1>หน้าหลัก</h1>";
+    echo "<h1>สินค้า</h1>";
+    echo "<h1>เกี่ยวกับฉัน</h1>";;
+    echo "<h1>ติดต่อ</h1>";;
 ?>
