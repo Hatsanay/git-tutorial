@@ -1,5 +1,5 @@
-<?php echo "
-<h1>user</h1>" 
-<h1>password</h1>" 
-<h1>mahanakorn</h1>" 
+<?php
+ echo "<h1>user</h1>";
+echo "<h1>password</h1>";
+echo "<h1>mahanakorn</h1>";
 ?>
